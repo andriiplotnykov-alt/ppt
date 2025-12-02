@@ -7,7 +7,7 @@
 - Modular architecture split into `models.py`, `computations.py`, `visualization.py` and `portt_main.py` for clarity and testability.
 
 **Main features**
-- **Live pricing**: Robust price fetching (yfinance) with ticker normalization for crypto (e.g. `BTC -> BTC-USD`).
+- **Live pricing**: Robust price fetching (yfinance).
 - **Portfolio analytics**: Market value, percent returns, unrealized P&L, rolling volatility and risk classification.
 - **Transaction support**: Add buy/sell transactions with proper portfolio updates and CSV import/export.
 - **Visualizations**: Pie charts, volatility comparison, P&L bar charts and price history via `matplotlib`.
