@@ -14,7 +14,7 @@
 - **State persistence**: Save/load session state (JSON and optional encrypted storage).
 - **Usability**: Simple menu-driven CLI with global commands and input validation.
 
-**Why this is relevant to recruiters**
+**It showcases**
 - **Practical data pipeline experience**: The project shows end-to-end handling of external market data, cleaning/normalizing symbols, aggregating time-series, and persisting application state.
 - **Quantitative & analytics skills**: Implements financial metrics (returns, P&L, volatility) and produces visual summaries useful for portfolio monitoring or risk analysis.
 - **Software engineering best practices**: Modular design, clear separation of concerns, input validation, and error handling—skills important for production-ready analytics tools.
