@@ -1,0 +1,5 @@
+yfinance
+matplotlib
+tabulate
+cryptography
+keyring
